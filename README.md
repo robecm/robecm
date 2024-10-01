@@ -1,4 +1,4 @@
-## Hi there 👋
+## Software Engineering student at the UANL.
 
 <!--
 **robecm/robecm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
